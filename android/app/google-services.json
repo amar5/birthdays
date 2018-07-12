@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098159671197",
+    "firebase_url": "https://mybirthdays-87e32.firebaseio.com",
+    "project_id": "mybirthdays-87e32",
+    "storage_bucket": "mybirthdays-87e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098159671197:android:d2496841603d926f",
+        "android_client_info": {
+          "package_name": "fr.pubmedia.birthdays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098159671197-2q3s9av2rbqdmkd9mjmeirak5rrkmbao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLYVWqnr3x4Zw7ps2TXFx1uPPAWhq5Q8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
